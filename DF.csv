@@ -1,10 +1,12 @@
 ,x,y,cluster,id,code,size,tag,title,count,priority,tier
 0,4.9083996,6.2328925,12,0, polic,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,2
+1,4.935892,6.069894,-1,1,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 2,7.332235,4.509981,18,2, polic,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,2
 3,7.310742,4.751136,18,3, polic,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 4,4.9900904,6.301628,12,4,other,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,3
 5,7.242467,4.5085,18,5,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 6,7.053267,4.2279797,18,6,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
+7,7.458039,5.1733074,-1,7, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
 8,4.6606884,9.171366,25,8,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,1
 9,7.2696466,4.5446057,18,9,other,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 10,6.975682,4.780883,17,10,tech,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,2
@@ -21,39 +23,53 @@
 21,7.934246,4.388478,38,21,tech,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,2
 22,7.970915,4.350038,38,22,other,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,1
 23,8.191441,4.46319,38,23,other,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,1
+24,7.6159673,4.3804398,-1,24,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 25,6.9837627,5.486041,33,25,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 26,7.080602,4.262978,18,26,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 27,7.3579655,4.4344997,18,27,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,2
 28,8.502923,4.5431275,44,28,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
 29,6.9645286,4.846476,17,29,tdv,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,3
 30,6.886894,4.8467164,17,30,tdv,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,2
+31,6.2084737,7.4433694,-1,31, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
 32,7.0864577,5.062801,17,32,tech,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,2
 33,7.3089623,4.4501405,18,33,other,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 34,6.4746966,7.2701964,41,34,tech,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
+35,6.3871546,8.760158,-1,35,fingerprint,0.25,Noise Point,Noise Point,0.0,Regular,2
 36,7.046065,6.0075536,33,36,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
 37,6.9425473,4.852334,17,37,other,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,3
 38,6.924773,4.832732,17,38,tech,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,3
 39,4.681782,7.383652,31,39,other,0.25,Mobile Safety,<i><br>Advancements in Mobile Technology and<br>Information Accessibility for Enhanced<br>Safety in Correctional Facilities</i>,11.0,Regular,2
+40,8.262235,5.8059196,-1,40,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+41,3.3749855,6.39052,-1,41,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 42,6.6872363,6.1695538,34,42,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,1
 43,6.651541,6.145138,34,43,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,1
 44,6.6471806,6.113905,34,44,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,1
+45,3.801582,5.8008676,-1,45, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
+46,4.2156105,7.1667,-1,46,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 47,4.214519,5.473036,11,47,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,3
 48,7.1833396,7.028,46,48,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,3
 49,3.900292,6.362132,22,49,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,1
 50,4.413119,5.712342,11,50,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,3
 51,7.1548533,6.8705683,46,51,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,3
 52,3.853266,6.359198,22,52,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,3
+53,6.8516917,6.5620832,-1,53,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+54,5.574533,7.3898387,-1,54,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 55,3.1356807,3.7540574,1,55,tech,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
+56,8.951447,3.9475582,-1,56,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 57,8.960919,4.008391,44,57,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 58,9.873038,5.774939,14,58,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,3
+59,8.727815,6.108296,-1,59,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 60,8.500903,6.371232,47,60,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,1
 61,10.594246,3.7414732,2,61,tech,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,2
 62,10.609363,3.7193484,2,62,other,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,3
 63,8.96778,5.2658157,44,63,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
+64,9.084404,4.6016088,-1,64,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 65,8.95442,4.5609584,44,65,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 66,7.5648355,5.5607014,42,66,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 67,8.614203,4.698565,44,67,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
 68,9.27245,4.78183,35,68,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,2
+69,9.429074,4.979031,-1,69,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+70,8.209702,4.487541,-1,70,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 71,6.278285,6.854373,41,71, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 72,6.286047,6.5534706,41,72,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 73,6.290626,6.860718,41,73,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
@@ -72,25 +88,33 @@
 86,7.9254613,4.375466,38,86,tech,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,2
 87,4.2908936,4.8439364,16,87,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 88,4.1342545,4.6864376,16,88,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
+89,6.3675585,5.353829,-1,89,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 90,4.442077,4.6878,16,90,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
 91,5.9568086,8.993375,28,91,other,0.25,Facility Tracking,<i><br>Implementing Advanced Tracking and<br>Accountability Systems in Facilities</i>,11.0,Regular,2
 92,4.606485,9.143712,25,92, polic,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,1
 93,4.631072,9.120952,25,93,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,1
+94,3.8034244,5.766001,-1,94,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 95,4.538335,4.625398,16,95,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
 96,4.2603617,5.5297465,11,96,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,3
 97,4.406403,4.6669574,16,97,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
+98,8.216762,4.578723,-1,98,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+99,8.492752,6.82764,-1,99,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 100,6.800684,6.995473,41,100,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
 101,4.2003026,5.6907845,11,101,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,3
+102,4.1599054,6.8971014,-1,102,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 103,3.6511242,7.6554914,8,103,stress,0.25,Law Enforcement Mental Health,<i><br>Mental Health Challenges and Support<br>Needs in Law Enforcement</i>,9.0,Priority,2
 104,4.7517085,4.1112742,15,104,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 105,9.269137,4.7706494,35,105,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,2
 106,9.055834,5.166693,44,106,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
+107,8.430403,5.5093465,-1,107,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 108,8.535645,4.5401926,44,108,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 109,8.458736,4.617071,44,109,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 110,8.601427,4.45706,44,110,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 111,8.517661,4.5263844,44,111,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 112,8.625128,4.6111984,44,112,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
+113,5.2489386,4.090439,-1,113,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 114,5.226932,4.102441,15,114,tech,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
+115,5.227722,4.0865364,-1,115,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 116,3.486149,7.3740954,8,116,other,0.25,Law Enforcement Mental Health,<i><br>Mental Health Challenges and Support<br>Needs in Law Enforcement</i>,9.0,Priority,1
 117,6.5899935,6.9996576,41,117,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 118,4.9062676,4.316337,15,118,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,2
@@ -104,28 +128,39 @@
 126,5.566966,4.6522865,10,126,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,2
 127,3.6111786,5.9544387,22,127,elder,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
 128,3.6896117,6.0918694,22,128, polic,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,1
+129,3.448191,6.377674,-1,129,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 130,3.736745,6.1372976,22,130,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
 131,2.5836902,4.8054795,7,131,other,0.25,Correctional Suicide Prevention,<i><br>Improving Suicide Prevention Strategies<br>in Correctional Facilities</i>,24.0,Regular,2
 132,3.8124483,5.837447,22,132,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
+133,7.1298532,7.2601748,-1,133, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
 134,4.418552,5.872015,11,134,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
+135,4.2905035,6.888636,-1,135,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+136,3.6841767,6.6828494,-1,136,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 137,4.458006,5.9401045,11,137,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,1
 138,4.4058642,5.9041142,11,138,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,1
 139,6.2155704,7.1560717,41,139, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 140,7.884473,7.5949774,37,140, polic,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,2
 141,7.677317,8.064365,27,141, polic,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,3
+142,6.0840297,6.6338243,-1,142,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 143,3.1308496,4.939144,6,143,stress,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,3
 144,3.452063,5.029011,6,144,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,2
+145,4.407417,7.4241686,-1,145,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 146,4.346793,5.6548314,11,146,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,3
 147,5.322404,7.647368,29,147,other,0.25,Law Enforcement Challenges,"<i><br>Addressing Challenges in Law<br>Enforcement: Caseload Management,<br>Officer Safety, and Technological<br>Advancements</i>",9.0,Regular,2
 148,3.1611567,6.8552494,19,148,drug,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
+149,7.9131784,7.110518,-1,149,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 150,5.730769,4.977073,10,150,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
+151,5.3880663,7.2977796,-1,151,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+152,5.149847,7.3723526,-1,152,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 153,5.7793493,4.9156833,10,153,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
+154,8.3893795,5.0579057,-1,154,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 155,5.6802287,4.772866,10,155,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,2
 156,5.7032633,5.04657,10,156,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
 157,6.7342963,5.4715595,33,157,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
 158,5.648232,4.930809,10,158,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,2
 159,6.7494283,5.453523,33,159,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 160,7.645987,5.6128726,42,160,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
+161,8.121812,5.5461407,-1,161,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 162,8.646126,4.8417664,44,162,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 163,8.788212,4.7134233,44,163,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 164,3.3754683,4.902725,6,164,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,3
@@ -134,15 +169,20 @@
 167,3.9433951,6.3674717,22,167,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,3
 168,4.27366,5.9991183,11,168,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
 169,6.6359487,7.2801843,41,169,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
+170,9.663657,5.226464,-1,170,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+171,8.538171,6.5686307,-1,171,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 172,8.482711,6.4743915,47,172,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
+173,9.4354925,3.983794,-1,173,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 174,10.632678,3.7646573,2,174,other,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,3
 175,8.748873,4.592313,44,175,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
 176,8.987091,5.2629333,44,176,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 177,8.653737,5.8554826,40,177,other,0.25,Forensic Backlog,<i><br>Addressing Forensic Backlogs: Strategies<br>for Efficiency and Justice Improvement</i>,11.0,Priority,1
+178,9.173648,5.000553,-1,178, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
 179,9.278335,4.760916,35,179,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,2
 180,7.9113574,4.442818,38,180, polic,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,3
 181,7.96408,4.400669,38,181,tdv,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,3
 182,8.7848625,4.461042,44,182,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
+183,8.197512,5.80012,-1,183,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 184,3.5075738,6.3108234,22,184,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,1
 185,3.7977936,6.4129734,22,185,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,1
 186,3.7732832,6.2256494,22,186,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
@@ -151,9 +191,11 @@
 189,8.527909,5.773009,40,189,other,0.25,Forensic Backlog,<i><br>Addressing Forensic Backlogs: Strategies<br>for Efficiency and Justice Improvement</i>,11.0,Priority,2
 190,8.93952,4.0128675,44,190,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 191,3.35785,4.8893085,6,191,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,2
+192,9.487981,7.6538973,-1,192,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 193,8.971603,4.143708,44,193,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 194,4.9285746,8.238531,32,194,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 195,7.055406,5.0719995,17,195,tdv,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,2
+196,4.147497,6.9424725,-1,196,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 197,8.314085,4.5351076,44,197,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 198,5.404148,7.542166,29,198,other,0.25,Law Enforcement Challenges,"<i><br>Addressing Challenges in Law<br>Enforcement: Caseload Management,<br>Officer Safety, and Technological<br>Advancements</i>",9.0,Regular,2
 199,3.374172,6.817387,19,199,drug,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
@@ -162,6 +204,9 @@
 202,8.659375,4.875928,44,202,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 203,5.5970974,4.676771,10,203,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,2
 204,4.7367086,4.900406,16,204,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
+205,5.257835,7.5205464,-1,205,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+206,4.3158016,7.4008384,-1,206,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+207,5.7045774,7.2405677,-1,207,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 208,8.507931,4.574023,44,208,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 209,4.993278,6.2992706,12,209,other,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,3
 210,4.844931,6.365131,12,210,tech,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,2
@@ -180,6 +225,7 @@
 223,4.9149833,6.4157143,12,223,other,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,2
 224,4.9116826,6.4669414,12,224,tech,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,3
 225,4.933013,6.417351,12,225,tech,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,1
+226,4.8169055,8.805298,-1,226,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 227,10.26429,4.435205,36,227, polic,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
 228,10.196435,4.5100803,36,228,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
 229,6.977061,4.1650696,18,229,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
@@ -187,10 +233,12 @@
 231,6.9417286,4.1441426,18,231,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 232,6.89331,4.1602592,18,232,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
 233,6.944848,4.14045,18,233,other,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,3
+234,3.83905,5.797054,-1,234, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
 235,8.749058,4.3261547,44,235,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
 236,8.728784,4.287719,44,236,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
 237,8.754134,4.4268837,44,237,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
 238,5.7014303,4.724287,10,238,school,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,3
+239,5.971925,6.833347,-1,239,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 240,8.315253,6.4704313,47,240,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,3
 241,6.069022,7.135642,41,241,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
 242,6.2926555,6.7431836,41,242, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
@@ -205,6 +253,7 @@
 251,9.582328,6.717959,51,251,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,2
 252,9.613566,6.7664948,51,252,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,2
 253,9.578441,6.7199717,51,253,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,2
+254,9.803649,6.3288527,-1,254,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 255,9.596364,6.759568,51,255,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,2
 256,6.9706736,4.152819,18,256,other,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,2
 257,3.7445166,6.505255,22,257,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,3
@@ -223,26 +272,37 @@
 270,7.0951977,8.592289,26,270,other,0.25,Video Analytics,<i><br>Utilizing Video Analytics and CCTV for<br>Security and Behavior Management in<br>Institutional Environments</i>,11.0,Priority,1
 271,7.3330107,6.395568,45,271,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,2
 272,5.7328424,8.568656,30,272,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
+273,8.457976,6.7897563,-1,273,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 274,4.4267335,5.928156,11,274,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
 275,5.5384703,7.646878,29,275,other,0.25,Law Enforcement Challenges,"<i><br>Addressing Challenges in Law<br>Enforcement: Caseload Management,<br>Officer Safety, and Technological<br>Advancements</i>",9.0,Regular,2
 276,5.4686966,7.4651966,29,276,other,0.25,Law Enforcement Challenges,"<i><br>Addressing Challenges in Law<br>Enforcement: Caseload Management,<br>Officer Safety, and Technological<br>Advancements</i>",9.0,Regular,1
+277,4.1557736,6.581271,-1,277,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 278,5.5974483,8.666424,30,278,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
 279,5.8204412,5.777414,5,279,tech,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,1
 280,3.0994499,3.7371163,1,280,tech,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
 281,5.80888,5.7666802,5,281,other,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,2
 282,9.205173,5.635144,43,282, polic,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
+283,9.226774,5.6622844,-1,283, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
+284,8.5360565,6.586167,-1,284,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
+285,9.441203,4.9835153,-1,285,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 286,9.274657,4.783126,35,286,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,1
+287,8.427459,5.7634897,-1,287, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
+288,6.974876,6.9955873,-1,288,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 289,5.8712606,5.7657466,5,289,other,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,2
 290,3.874009,6.198104,22,290,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,3
 291,3.4361517,4.7935295,6,291,stress,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,2
 292,3.809368,6.1244493,22,292,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
 293,4.4673996,4.713321,16,293,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
+294,4.1377726,6.300762,-1,294,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 295,3.092304,3.8929179,1,295,recidiv,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
 296,3.0952966,3.9160063,1,296,recidiv,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
 297,3.1253583,3.8541338,1,297,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,2
 298,3.205982,3.8509388,1,298, polic,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,2
 299,7.8746047,6.5329614,48,299,other,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,2
+300,7.681724,6.441094,-1,300,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+301,7.5321283,6.3987675,-1,301,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 302,9.859253,4.779019,36,302,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,1
+303,9.440858,4.1705146,-1,303,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 304,10.631136,3.7298386,2,304,tech,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,2
 305,3.6654842,8.938322,4,305,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,2
 306,3.6853447,8.934486,4,306,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,2
@@ -254,6 +314,7 @@
 312,3.8454912,5.7608695,22,312,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
 313,5.382871,6.1945815,13,313,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,1
 314,4.260778,5.5454636,11,314,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,3
+315,9.029031,5.373041,-1,315,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 316,3.3538036,4.832683,6,316,stress,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,2
 317,3.3201096,4.9035296,6,317,stress,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,2
 318,5.9580956,9.012795,28,318,other,0.25,Facility Tracking,<i><br>Implementing Advanced Tracking and<br>Accountability Systems in Facilities</i>,11.0,Regular,2
@@ -266,6 +327,7 @@
 325,5.7022734,8.286337,24,325,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
 326,3.632981,7.6307244,8,326,stress,0.25,Law Enforcement Mental Health,<i><br>Mental Health Challenges and Support<br>Needs in Law Enforcement</i>,9.0,Priority,2
 327,3.1140087,3.7727728,1,327,tech,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
+328,9.074669,4.3393154,-1,328,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 329,7.2577944,6.421796,45,329, polic,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,2
 330,7.742516,8.197688,27,330,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
 331,7.2371826,8.474636,26,331,other,0.25,Video Analytics,<i><br>Utilizing Video Analytics and CCTV for<br>Security and Behavior Management in<br>Institutional Environments</i>,11.0,Priority,1
@@ -284,6 +346,7 @@
 344,8.588672,5.907013,40,344,other,0.25,Forensic Backlog,<i><br>Addressing Forensic Backlogs: Strategies<br>for Efficiency and Justice Improvement</i>,11.0,Priority,2
 345,6.268456,8.871854,28,345,other,0.25,Facility Tracking,<i><br>Implementing Advanced Tracking and<br>Accountability Systems in Facilities</i>,11.0,Regular,2
 346,6.986295,8.508168,26,346, polic,0.25,Video Analytics,<i><br>Utilizing Video Analytics and CCTV for<br>Security and Behavior Management in<br>Institutional Environments</i>,11.0,Priority,2
+347,5.5544333,6.0597615,-1,347,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 348,5.521021,6.0715523,13,348,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,1
 349,4.862306,9.236372,25,349,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,2
 350,6.158949,8.998023,28,350,other,0.25,Facility Tracking,<i><br>Implementing Advanced Tracking and<br>Accountability Systems in Facilities</i>,11.0,Regular,2
@@ -302,8 +365,11 @@
 363,5.6998615,8.669911,30,363,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
 364,5.4969087,8.70665,30,364,tech,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
 365,4.6986074,7.507011,31,365,other,0.25,Mobile Safety,<i><br>Advancements in Mobile Technology and<br>Information Accessibility for Enhanced<br>Safety in Correctional Facilities</i>,11.0,Regular,3
+366,4.472146,7.6572113,-1,366,drug,0.25,Noise Point,Noise Point,0.0,Regular,2
 367,5.6203623,8.67866,30,367,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
 368,4.2353973,8.771465,4,368,other,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
+369,5.2977014,6.3604255,-1,369,tdv,0.25,Noise Point,Noise Point,0.0,Regular,1
+370,4.400059,7.4213476,-1,370,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 371,4.593416,7.4820433,31,371,other,0.25,Mobile Safety,<i><br>Advancements in Mobile Technology and<br>Information Accessibility for Enhanced<br>Safety in Correctional Facilities</i>,11.0,Regular,2
 372,4.263761,8.720616,4,372,tech,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,1
 373,7.414543,7.301587,46,373, polic,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
@@ -311,17 +377,22 @@
 375,8.541304,7.447909,49,375,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,3
 376,9.512939,7.322123,52,376,tech,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,3
 377,4.73782,7.3867106,31,377,3d,0.25,Mobile Safety,<i><br>Advancements in Mobile Technology and<br>Information Accessibility for Enhanced<br>Safety in Correctional Facilities</i>,11.0,Regular,3
+378,5.1960135,8.817394,-1,378, polic,0.25,Noise Point,Noise Point,0.0,Regular,3
 379,9.696941,4.8660383,36,379,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,1
 380,9.877241,4.867769,36,380,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,1
 381,9.860713,4.8003755,36,381,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,1
+382,9.664537,4.878103,-1,382,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+383,9.652616,4.8729134,-1,383,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 384,9.911621,4.8671794,36,384,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,3
 385,8.800781,5.0068097,44,385,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 386,9.606824,4.893983,36,386,tech,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
+387,8.939835,5.5617576,-1,387,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 388,8.469549,6.4496984,47,388,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
 389,10.618709,3.7326257,2,389,tech,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,2
 390,10.635297,3.7122047,2,390,other,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,2
 391,10.595858,3.7390082,2,391,tech,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,2
 392,10.598398,3.7293184,2,392,other,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,3
+393,9.427591,4.626147,-1,393,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 394,6.281671,6.815443,41,394, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 395,6.369011,7.059843,41,395,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 396,6.425058,6.798118,41,396, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
@@ -337,25 +408,34 @@
 406,6.7215233,7.158104,41,406,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 407,4.48304,6.2568603,11,407,tech,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
 408,4.4225473,6.114274,11,408,tech,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
+409,4.307611,6.8438272,-1,409,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+410,4.25752,6.9296846,-1,410,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
+411,9.168759,4.085703,-1,411,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 412,9.84471,3.5308657,3,412,tech,0.25,Telepresence Implications,<i><br>Exploring the Implications of<br>Telepresence Technology in Court<br>Proceedings</i>,30.0,Priority,1
+413,9.165502,5.009662,-1,413,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 414,10.408691,3.7447386,2,414,tech,0.25,Access and Support,<i><br>Improving Access and Support for Pro Se<br>Litigants through Technology and Non-<br>Lawyer Assistance</i>,9.0,Regular,2
 415,8.714173,5.8109913,40,415,other,0.25,Forensic Backlog,<i><br>Addressing Forensic Backlogs: Strategies<br>for Efficiency and Justice Improvement</i>,11.0,Priority,1
 416,5.806344,5.7741666,5,416,other,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,2
 417,5.324291,6.7315207,13,417,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,2
+418,4.0953627,6.542886,-1,418,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 419,9.747332,5.607372,14,419,tech,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,2
 420,9.24292,5.312069,43,420,other,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
+421,9.323506,5.2644253,-1,421,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 422,6.7439585,6.920276,41,422,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
+423,6.968281,6.725621,-1,423,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 424,6.693018,6.7378044,41,424,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 425,4.659286,7.3911414,31,425,other,0.25,Mobile Safety,<i><br>Advancements in Mobile Technology and<br>Information Accessibility for Enhanced<br>Safety in Correctional Facilities</i>,11.0,Regular,2
 426,7.382516,10.009366,0,426,tech,0.25,Communication Technologies,"<i><br>Improving Interoperability and<br>Efficiency in Communication Systems:<br>Multiband Radios, Hybrid Networks, and<br>Security Technologies</i>",30.0,Priority,2
 427,7.4008465,10.004771,0,427,tech,0.25,Communication Technologies,"<i><br>Improving Interoperability and<br>Efficiency in Communication Systems:<br>Multiband Radios, Hybrid Networks, and<br>Security Technologies</i>",30.0,Priority,3
 428,4.758406,7.2569737,31,428,other,0.25,Mobile Safety,<i><br>Advancements in Mobile Technology and<br>Information Accessibility for Enhanced<br>Safety in Correctional Facilities</i>,11.0,Regular,2
+429,4.2864366,6.9349003,-1,429,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 430,7.4343495,10.0344,0,430,tech,0.25,Communication Technologies,"<i><br>Improving Interoperability and<br>Efficiency in Communication Systems:<br>Multiband Radios, Hybrid Networks, and<br>Security Technologies</i>",30.0,Priority,3
 431,7.3899484,9.982824,0,431,tech,0.25,Communication Technologies,"<i><br>Improving Interoperability and<br>Efficiency in Communication Systems:<br>Multiband Radios, Hybrid Networks, and<br>Security Technologies</i>",30.0,Priority,2
 432,7.3021283,10.027286,0,432,tech,0.25,Communication Technologies,"<i><br>Improving Interoperability and<br>Efficiency in Communication Systems:<br>Multiband Radios, Hybrid Networks, and<br>Security Technologies</i>",30.0,Priority,2
 433,6.7739773,6.5914187,34,433,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,3
 434,6.874095,7.2812757,41,434,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,3
 435,3.9575615,6.125595,22,435,tech,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
+436,8.201574,6.7972617,-1,436,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 437,8.968707,4.1372175,44,437,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 438,9.054748,4.1269403,44,438,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 439,9.299686,6.291012,39,439,tech,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,2
@@ -363,9 +443,13 @@
 441,9.830205,6.1223845,14,441,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,2
 442,8.0654745,5.8200364,42,442,tdv,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 443,9.859176,5.9101276,14,443,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,1
+444,8.165564,5.5778546,-1,444,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+445,8.20042,5.504117,-1,445,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 446,9.51342,5.58473,14,446,tech,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,2
 447,9.733463,5.702734,14,447,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,2
 448,7.5744505,5.8373094,42,448,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,3
+449,7.7911415,5.9685664,-1,449,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+450,8.441636,6.789148,-1,450,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 451,9.44493,4.938016,35,451,tech,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,2
 452,6.731714,5.804552,33,452,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
 453,7.68724,9.364741,0,453,fire,0.25,Communication Technologies,"<i><br>Improving Interoperability and<br>Efficiency in Communication Systems:<br>Multiband Radios, Hybrid Networks, and<br>Security Technologies</i>",30.0,Priority,1
@@ -385,31 +469,44 @@
 467,7.682997,5.742186,42,467,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,1
 468,9.825474,5.9941015,14,468,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,2
 469,9.875992,5.7934866,14,469,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,3
+470,8.427452,6.7604947,-1,470,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 471,9.871196,5.866525,14,471,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,1
 472,8.829198,4.8057604,44,472,other,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
+473,9.683654,5.232377,-1,473,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 474,9.24521,5.381398,43,474,other,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
+475,9.299223,5.2828717,-1,475,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+476,8.131488,5.5550475,-1,476, polic,0.25,Noise Point,Noise Point,0.0,Regular,1
 477,7.6497593,5.6358953,42,477,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 478,9.253191,4.797859,35,478,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,1
 479,7.8737035,5.6917243,42,479,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,1
 480,7.884308,5.739634,42,480,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 481,7.885101,5.744206,42,481,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 482,9.752163,5.679662,14,482,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,3
+483,9.250432,5.3222094,-1,483,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 484,9.113447,5.470882,43,484,other,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
 485,9.601754,5.602175,14,485,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,2
+486,9.383729,7.0233364,-1,486,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 487,7.601936,5.6007524,42,487,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 488,7.8958645,5.7043576,42,488,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 489,8.4063425,6.343445,47,489, polic,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
 490,7.886776,6.5095415,48,490,tech,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,1
+491,7.5326805,5.182972,-1,491,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+492,7.835886,6.1613317,-1,492,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 493,7.6925397,5.7272096,42,493,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,1
+494,7.306953,5.9079514,-1,494,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 495,7.684259,5.6427374,42,495,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,2
 496,9.31989,6.111593,39,496,tdv,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,2
+497,5.9771514,7.4641223,-1,497,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 498,8.158181,6.134531,47,498,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,3
 499,9.212877,6.040557,39,499,tech,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,3
 500,8.985227,5.269163,44,500,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,3
+501,6.035949,7.4490647,-1,501,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 502,7.897286,6.525208,48,502, polic,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,2
+503,8.128099,5.550322,-1,503,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 504,9.74289,5.664857,14,504,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,3
 505,8.409679,6.3823237,47,505, polic,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
 506,9.881857,5.907209,14,506,other,0.25,Digital Transformation,"<i><br>Transitioning from Paper to Electronic<br>Court Systems: Challenges, Needs, and<br>Strategies</i>",14.0,Regular,1
+507,7.664561,5.425185,-1,507,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 508,6.645775,6.862241,41,508,tech,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 509,7.303868,6.551761,45,509,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,3
 510,5.1141553,6.6471796,12,510, polic,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,3
@@ -448,6 +545,7 @@
 543,3.0810091,7.699923,9,543,drug,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,3
 544,3.1483817,7.7185426,9,544,drug,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,3
 545,5.7873316,7.5216093,29,545, polic,0.25,Law Enforcement Challenges,"<i><br>Addressing Challenges in Law<br>Enforcement: Caseload Management,<br>Officer Safety, and Technological<br>Advancements</i>",9.0,Regular,3
+546,4.7498417,7.725116,-1,546,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 547,5.1225977,9.285674,25,547,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,3
 548,4.9533124,9.20135,25,548,tech,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,1
 549,5.196128,9.238324,25,549,tech,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,3
@@ -458,12 +556,14 @@
 554,5.321731,8.845919,30,554,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
 555,5.0107245,8.311404,32,555,tech,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 556,5.2898803,8.631679,30,556, polic,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,3
+557,5.3430305,8.005468,-1,557,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 558,4.9924507,8.215889,32,558, polic,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 559,5.059952,8.238291,32,559,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,2
 560,5.1028166,8.334734,32,560,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 561,5.1024966,8.381099,32,561,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 562,5.160541,8.297007,32,562,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 563,5.050879,8.432052,32,563,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,2
+564,5.0614467,8.541419,-1,564,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 565,5.1147623,8.489072,32,565,other,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
 566,5.182941,9.192326,25,566,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,3
 567,5.4424577,8.81412,30,567,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,3
@@ -477,10 +577,12 @@
 575,7.557443,8.408267,27,575,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
 576,3.5562656,7.5894127,8,576,stress,0.25,Law Enforcement Mental Health,<i><br>Mental Health Challenges and Support<br>Needs in Law Enforcement</i>,9.0,Priority,1
 577,6.2762036,6.999914,41,577, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
+578,7.521053,5.19473,-1,578,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 579,9.505679,7.422617,52,579, polic,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 580,6.3921113,6.7501383,41,580,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 581,7.9824724,7.3993526,37,581, polic,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,2
 582,6.345102,8.406457,24,582, polic,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
+583,8.767925,5.560976,-1,583,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 584,6.870074,7.156262,41,584,tech,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 585,6.2947636,6.987439,41,585, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 586,6.556422,6.3202662,34,586,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,2
@@ -495,6 +597,8 @@
 595,7.9451866,7.241201,37,595,other,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
 596,7.112799,4.8417935,17,596,tech,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,3
 597,3.7007995,8.872271,4,597,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,2
+598,7.998245,6.996143,-1,598,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+599,6.5257134,8.034097,-1,599,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 600,6.750921,5.787914,33,600,tech,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,3
 601,6.8061914,5.8008995,33,601,tech,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,3
 602,7.164842,5.772583,33,602,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,3
@@ -513,11 +617,16 @@
 615,2.5153623,6.571322,19,615,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,3
 616,2.3592064,6.647206,19,616,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,3
 617,3.6884122,7.22373,8,617,other,0.25,Law Enforcement Mental Health,<i><br>Mental Health Challenges and Support<br>Needs in Law Enforcement</i>,9.0,Priority,1
+618,3.579646,7.106574,-1,618,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 619,3.232109,6.7486477,19,619,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
+620,3.4562478,7.109083,-1,620,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+621,3.8416731,7.106924,-1,621,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+622,3.7658894,7.1821213,-1,622,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 623,3.0075347,6.7828918,19,623,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 624,2.960599,6.742721,19,624,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 625,2.1647613,6.6073394,19,625, polic,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 626,2.7966619,6.699812,19,626,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
+627,3.046923,6.906659,-1,627,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 628,2.183053,6.5235133,19,628,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 629,2.2362282,6.53819,19,629,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 630,3.1996899,4.921009,6,630,stress,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,1
@@ -525,17 +634,24 @@
 632,2.251113,6.5880737,19,632,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
 633,2.307018,6.5790052,19,633,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
 634,4.2355165,5.522178,11,634,recidiv,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
+635,2.9981396,7.2056065,-1,635,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 636,2.3419273,6.565534,19,636,tech,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
 637,2.2664762,6.595249,19,637,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
 638,2.2380664,6.5966835,19,638,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,3
 639,2.7953389,6.719143,19,639,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 640,2.8295567,6.708102,19,640,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 641,3.180616,6.702656,19,641,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
+642,3.3908765,6.721662,-1,642,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+643,3.3588545,6.7130375,-1,643,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 644,3.0865412,6.710115,19,644, polic,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
+645,3.8746502,5.5471954,-1,645,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 646,2.2521122,6.6204677,19,646,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
 647,2.3169913,6.6315346,19,647,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
 648,2.459897,6.463828,19,648,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
+649,2.7727964,6.30599,-1,649,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 650,2.2575212,6.603277,19,650,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
+651,7.299573,5.551386,-1,651,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+652,3.0183926,6.526863,-1,652,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 653,6.7718854,5.5275016,33,653, polic,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 654,6.777958,5.5040307,33,654, polic,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 655,2.2561553,6.6106415,19,655,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,2
@@ -544,18 +660,23 @@
 658,9.055638,5.8861814,43,658,school,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
 659,9.472628,7.6043983,52,659,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,1
 660,9.681432,7.2868633,52,660,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,1
+661,9.746732,7.084465,-1,661,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 662,9.534967,7.1669335,52,662,tech,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,1
 663,9.528782,7.181602,52,663,tech,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,1
 664,8.813709,5.1446767,44,664,school,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 665,7.397096,6.4028444,45,665,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,1
 666,7.560589,8.427792,27,666,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
+667,9.236207,7.2264037,-1,667,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 668,9.792203,7.2823277,52,668,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 669,9.754796,7.2982087,52,669,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 670,9.809945,7.2386756,52,670,tech,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 671,9.857117,7.2636323,52,671,tech,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 672,5.6863766,8.681142,30,672,tech,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,2
+673,8.348749,6.9881415,-1,673,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 674,9.296511,7.332111,52,674,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 675,7.7025003,8.359035,27,675,tdv,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,2
+676,8.187492,7.116879,-1,676,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+677,9.14947,6.6586394,-1,677,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 678,9.638421,7.40678,52,678,tech,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 679,9.395236,7.3332443,52,679,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 680,9.597143,7.5001254,52,680,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
@@ -574,10 +695,14 @@
 693,9.232147,6.15243,39,693,tech,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,1
 694,10.2048855,4.507813,36,694, polic,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,1
 695,9.113637,5.6542153,43,695,tech,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
+696,9.165269,5.9546685,-1,696,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 697,9.304537,6.3500576,39,697,other,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,1
 698,9.655945,3.2695298,3,698,other,0.25,Telepresence Implications,<i><br>Exploring the Implications of<br>Telepresence Technology in Court<br>Proceedings</i>,30.0,Priority,1
 699,3.1360922,3.8207924,1,699,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
 700,8.844022,5.1372857,44,700,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
+701,8.102612,6.909183,-1,701,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+702,8.207887,6.8733335,-1,702, polic,0.25,Noise Point,Noise Point,0.0,Regular,1
+703,8.052587,7.025609,-1,703,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 704,3.1575859,3.7987392,1,704,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,1
 705,9.23965,6.48274,39,705,other,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,1
 706,9.913452,3.6746008,3,706,tech,0.25,Telepresence Implications,<i><br>Exploring the Implications of<br>Telepresence Technology in Court<br>Proceedings</i>,30.0,Priority,2
@@ -596,6 +721,7 @@
 719,10.00721,4.771889,36,719,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
 720,10.163218,4.5445004,36,720,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
 721,9.819184,3.4952629,3,721,other,0.25,Telepresence Implications,<i><br>Exploring the Implications of<br>Telepresence Technology in Court<br>Proceedings</i>,30.0,Priority,3
+722,9.206702,6.632064,-1,722,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 723,9.263004,6.2290716,39,723,tech,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,3
 724,9.43642,6.8078556,51,724, polic,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,3
 725,9.310492,4.8851833,35,725,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,3
@@ -633,6 +759,7 @@
 757,7.787857,8.291342,27,757,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
 758,3.030751,5.2243457,6,758,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,2
 759,2.7507622,5.7543445,21,759,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
+760,5.018786,7.63614,-1,760,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 761,3.0144491,5.2024007,6,761,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,3
 762,2.7332478,5.713667,21,762, polic,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,3
 763,2.9103577,4.7819695,6,763,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,3
@@ -641,6 +768,7 @@
 766,2.5397406,4.7199044,7,766,other,0.25,Correctional Suicide Prevention,<i><br>Improving Suicide Prevention Strategies<br>in Correctional Facilities</i>,24.0,Regular,1
 767,2.4735518,4.6434245,7,767,other,0.25,Correctional Suicide Prevention,<i><br>Improving Suicide Prevention Strategies<br>in Correctional Facilities</i>,24.0,Regular,1
 768,2.8771846,6.21999,23,768,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,1
+769,2.8468935,6.296995,-1,769,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 770,2.6318521,6.636553,19,770,other,0.25,Mental Health Challenges,<i><br>Challenges and Solutions in Managing and<br>Treating Serious Mental Illness in<br>Societal Contexts</i>,38.0,Priority,1
 771,2.5496073,4.9159756,7,771,other,0.25,Correctional Suicide Prevention,<i><br>Improving Suicide Prevention Strategies<br>in Correctional Facilities</i>,24.0,Regular,2
 772,2.5076208,4.887198,7,772,other,0.25,Correctional Suicide Prevention,<i><br>Improving Suicide Prevention Strategies<br>in Correctional Facilities</i>,24.0,Regular,2
@@ -668,11 +796,19 @@
 794,2.9372883,7.7110577,9,794,drug,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,1
 795,2.854962,7.606117,9,795,drug,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,2
 796,2.8546636,7.6057987,9,796,drug,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,2
+797,2.85911,7.248556,-1,797,drug,0.25,Noise Point,Noise Point,0.0,Regular,2
+798,2.7064111,5.9367642,-1,798,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+799,3.3562775,8.346625,-1,799,drug,0.25,Noise Point,Noise Point,0.0,Regular,3
 800,3.6799963,8.463927,4,800,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
 801,4.088825,8.936841,4,801,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
 802,4.151898,8.888496,4,802,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
 803,3.7608209,8.880171,4,803,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
 804,3.025837,5.6999187,23,804,elder,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,2
+805,2.9486125,5.6484256,-1,805, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
+806,3.3993342,5.6723065,-1,806,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+807,3.3897786,5.6655297,-1,807,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+808,5.304195,8.529384,-1,808,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
+809,5.2888627,8.510049,-1,809,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 810,4.017865,8.964885,4,810,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,2
 811,3.5701075,5.8738503,22,811,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
 812,3.2569654,6.025871,23,812,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,1
@@ -684,6 +820,7 @@
 818,2.9349818,5.904458,23,818,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,1
 819,2.9710617,5.9361086,23,819,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,1
 820,2.9801533,5.2629485,6,820,other,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,1
+821,3.0037487,5.2870812,-1,821,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 822,2.4673336,5.6002007,21,822,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
 823,2.4525247,5.5716467,21,823,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
 824,2.4278784,5.6913595,21,824,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
@@ -695,16 +832,19 @@
 830,3.6094983,6.0585456,22,830,other,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,2
 831,2.4385033,5.652303,21,831,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,1
 832,3.1982105,5.977636,23,832,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,2
+833,7.493773,6.1783304,-1,833,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 834,2.697824,5.8003387,21,834,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
 835,3.0116718,6.054587,23,835,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,2
 836,7.201206,6.485979,45,836,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,2
 837,2.4817576,5.6116934,21,837,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
 838,2.3766952,5.699838,21,838,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
+839,2.615956,5.4110723,-1,839,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 840,2.4816182,5.6549377,21,840,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,1
 841,2.492741,5.673766,21,841,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
 842,2.4774354,5.6723742,21,842,other,0.25,Mortality Insights,<i><br>Improving Mortality Understanding and<br>Prevention through Enhanced Data<br>Collection and Analysis Practices</i>,15.0,Regular,2
 843,3.1375713,5.869215,23,843,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,2
 844,3.1743329,5.8499265,23,844,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,2
+845,3.7544234,5.4826818,-1,845,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 846,3.1705487,5.9955106,23,846,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,3
 847,3.0606647,5.8532896,23,847,other,0.25,Correctional Health Care,<i><br>Improving Health Care Services in<br>Correctional Facilities: Challenges and<br>Needs</i>,27.0,Regular,3
 848,3.4530027,5.892264,22,848,tech,0.25,Correctional Efficiency,<i><br>Efficiency and Special Needs Management<br>in Correctional Facilities</i>,32.0,Regular,3
@@ -728,12 +868,17 @@
 866,6.7290726,6.8700123,41,866,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 867,5.934151,4.779345,10,867,tech,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
 868,7.5318213,5.7867913,42,868,tdv,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,1
+869,7.7830987,6.9155416,-1,869, polic,0.25,Noise Point,Noise Point,0.0,Regular,1
 870,5.823289,5.746517,5,870,tech,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,1
+871,6.861951,7.4192967,-1,871,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 872,6.219327,6.8765016,41,872,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
+873,6.4424076,7.6102552,-1,873,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 874,3.7501073,8.903279,4,874,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,1
+875,6.475816,7.6558375,-1,875,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 876,6.5482507,6.4008393,34,876,tdv,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,2
 877,5.293202,7.9437366,32,877,tech,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,2
 878,5.880229,8.2925005,24,878,tech,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
+879,6.5370274,7.6366987,-1,879,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 880,7.4945908,7.2354093,46,880,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,2
 881,7.3143115,6.8800464,46,881,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,2
 882,6.527988,6.2840877,34,882,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,2
@@ -741,9 +886,14 @@
 884,7.231579,6.878153,46,884,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,2
 885,5.2678885,9.134563,25,885,tech,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,3
 886,5.319371,7.9621787,32,886,skelet,0.25,Safety Innovations,<i><br>Advancements in Law Enforcement Safety<br>Equipment and Practices</i>,29.0,Regular,3
+887,7.2314386,5.1913385,-1,887,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 888,9.681951,3.2657206,3,888,tech,0.25,Telepresence Implications,<i><br>Exploring the Implications of<br>Telepresence Technology in Court<br>Proceedings</i>,30.0,Priority,3
+889,5.86059,7.84422,-1,889,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
+890,6.523317,7.727703,-1,890,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
+891,6.7008166,8.351607,-1,891,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 892,6.5561905,7.77904,20,892,other,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,3
 893,7.256117,7.6815643,20,893,tdv,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,1
+894,5.841966,7.139438,-1,894,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 895,6.9924817,7.7471213,20,895,other,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,2
 896,7.141938,7.6544905,20,896,other,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,2
 897,7.148186,7.7076964,20,897,other,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,2
@@ -755,15 +905,22 @@
 903,6.215349,8.410042,24,903,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
 904,5.99242,8.327306,24,904,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
 905,6.158584,8.400778,24,905,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,3
+906,4.669288,6.4437795,-1,906,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 907,5.8115907,5.752277,5,907,other,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,1
 908,8.988572,4.3823853,44,908,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 909,8.181877,6.2914567,47,909,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,1
 910,6.7482805,7.159206,41,910,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 911,6.0544605,8.113044,24,911, polic,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,1
 912,8.035849,6.377556,47,912,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
+913,9.242144,3.9881945,-1,913,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+914,7.91556,4.8082623,-1,914,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+915,5.6836505,6.438216,-1,915,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 916,5.4029727,8.884658,30,916,other,0.25,GPS Implementation Challenges,<i><br>Challenges and Solutions in Implementing<br>GPS Technology in Law Enforcement and<br>Corrections</i>,13.0,Regular,3
+917,6.809621,7.8494654,-1,917,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 918,7.138005,4.3171453,18,918,tech,0.25,Technology Management Challenges,<i><br>Challenges and Strategies in Technology<br>Management for Agencies</i>,17.0,Regular,1
+919,6.6245103,8.173645,-1,919, polic,0.25,Noise Point,Noise Point,0.0,Regular,1
 920,7.883963,4.427635,38,920,tech,0.25,Vendor Systems Challenges,<i><br>Overcoming Challenges in Implementing<br>Vendor Systems in Court Systems:<br>Strategies and Solutions</i>,12.0,Regular,1
+921,5.454352,8.875114,-1,921, polic,0.25,Noise Point,Noise Point,0.0,Regular,2
 922,6.3308554,8.345207,24,922,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
 923,7.0611496,7.641501,20,923,other,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,2
 924,7.0524096,7.693552,20,924,traffick,0.25,Advanced Technologies,<i><br>Integrating Advanced Technologies and<br>Intelligent Agents in Law Enforcement<br>and Criminal Justice</i>,11.0,Regular,2
@@ -774,12 +931,18 @@
 929,5.3157983,6.8357806,13,929,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,3
 930,5.5293245,6.1318398,13,930,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,3
 931,8.315347,6.4146223,47,931, polic,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,1
+932,7.8321886,6.1963797,-1,932,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 933,7.6732306,6.647656,48,933,tdv,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,1
+934,4.6089435,6.400205,-1,934,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+935,7.836056,6.224197,-1,935,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 936,7.7016754,6.094803,45,936,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,2
 937,7.7226105,8.236032,27,937,tdv,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,2
+938,10.1269,4.1744843,-1,938,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 939,10.2009535,4.52466,36,939,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
+940,10.111127,4.216217,-1,940,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 941,10.207393,4.4966393,36,941,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
 942,10.140043,4.4910917,36,942,other,0.25,Digital Influence,<i><br>Challenges and Strategies in Mitigating<br>the Impact of Social Media and Mobile<br>Devices on the Judicial System</i>,21.0,Regular,2
+943,10.134555,4.242459,-1,943,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 944,8.885471,4.762364,44,944,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 945,4.2133694,4.4270096,16,945,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,1
 946,5.0485077,4.214857,15,946, polic,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,1
@@ -794,16 +957,20 @@
 955,4.8168693,4.307869,15,955,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 956,4.632484,4.159424,15,956,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 957,4.324733,4.358768,16,957,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
+958,5.339138,5.024774,-1,958,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 959,5.5791345,5.2202325,10,959,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,3
 960,4.309691,4.6681986,16,960,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
 961,4.360362,4.4816904,16,961,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
+962,4.772141,4.778983,-1,962,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 963,4.2623224,4.58229,16,963,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 964,4.302798,4.530211,16,964,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
+965,4.877611,5.239243,-1,965,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 966,4.356709,4.4529076,16,966,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
 967,4.381105,5.0288315,16,967,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,1
 968,4.401503,5.023836,16,968,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,1
 969,5.682652,5.064903,10,969,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
 970,4.414088,5.1221223,16,970,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
+971,4.686828,5.246336,-1,971,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 972,4.205825,4.7617087,16,972,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 973,5.552733,4.7161765,10,973,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,2
 974,5.537986,4.7309666,10,974,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,2
@@ -820,24 +987,31 @@
 985,4.8407755,4.210862,15,985,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,2
 986,4.3191066,4.458989,16,986,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 987,3.3085015,4.909176,6,987,stress,0.25,Correctional Stress Management,<i><br>Mental Health and Stress Management<br>Strategies in Correctional Facilities: A<br>Call for Research and Training</i>,16.0,Regular,3
+988,4.5476074,5.4015975,-1,988,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 989,4.8482337,4.182365,15,989,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 990,4.579426,4.180511,15,990,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 991,4.798548,4.282192,15,991,stress,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 992,4.315395,4.8238955,16,992,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,1
 993,4.287828,4.8650937,16,993,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,1
+994,4.9787326,4.793362,-1,994,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 995,4.817999,4.347978,15,995,mentor,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,1
 996,4.3647804,4.870427,16,996,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 997,4.2620025,4.6658754,16,997,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 998,4.874498,4.3967485,15,998,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,2
 999,4.3403025,4.52422,16,999,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
 1000,4.2463903,4.5691447,16,1000,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
+1001,5.0923166,4.988621,-1,1001,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+1002,5.0935216,5.0835443,-1,1002,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1003,5.9281797,8.091409,24,1003,tech,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,3
+1004,5.1985216,4.9915533,-1,1004, polic,0.25,Noise Point,Noise Point,0.0,Regular,3
+1005,4.889062,4.999057,-1,1005,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1006,4.3773403,4.6721454,16,1006,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 1007,4.559107,4.515212,16,1007,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 1008,4.2957993,4.451335,16,1008,tech,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 1009,7.4760804,7.192972,46,1009, polic,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
 1010,7.6789064,7.3791037,37,1010, polic,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,1
 1011,6.628509,6.3883705,34,1011,tech,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,1
+1012,8.175489,7.1983194,-1,1012,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1013,6.6206307,6.4036274,34,1013,tech,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,1
 1014,6.594549,5.508596,33,1014, polic,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
 1015,7.4463425,7.1772285,46,1015, polic,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
@@ -845,11 +1019,14 @@
 1017,7.4619,7.2016463,46,1017, polic,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
 1018,6.6297297,6.439549,34,1018,tech,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,1
 1019,7.204334,6.975889,46,1019,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
+1020,7.8951735,7.9651866,-1,1020,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1021,7.389285,7.077433,46,1021,tech,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
+1022,7.351761,6.7381363,-1,1022,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1023,7.71689,8.055701,27,1023,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,2
 1024,7.563565,7.2102776,46,1024,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,1
 1025,5.771038,5.043072,10,1025,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
 1026,5.7051425,4.818964,10,1026,other,0.25,Training Methods,"<i><br>Exploring the Need for Improved,<br>Scalable, and Cost-Effective Training<br>Methods Across Various Sectors</i>",16.0,Priority,1
+1027,7.6395583,7.8582478,-1,1027,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1028,8.7166395,7.179353,49,1028,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,1
 1029,8.619407,7.214643,49,1029,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1030,7.3734274,6.9945083,46,1030,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,2
@@ -862,6 +1039,7 @@
 1037,8.0708065,7.4543366,37,1037, polic,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
 1038,8.63351,7.076759,49,1038,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,3
 1039,7.3594956,7.0398397,46,1039,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,3
+1040,7.433027,8.058924,-1,1040,traffick,0.25,Noise Point,Noise Point,0.0,Regular,3
 1041,7.297499,6.7370543,45,1041,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,3
 1042,7.295589,6.995594,46,1042,other,0.25,Social Media Analysis Challenges,<i><br>Challenges and Needs in Social Media<br>Analysis for Law Enforcement and<br>Criminal Justice</i>,21.0,Priority,3
 1043,7.835487,7.3263845,37,1043,other,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
@@ -870,6 +1048,7 @@
 1046,8.869678,7.1603985,49,1046,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,1
 1047,8.954395,7.101063,49,1047,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,1
 1048,8.890902,7.0937877,49,1048,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,1
+1049,9.087965,6.4166164,-1,1049,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1050,8.787143,7.134172,49,1050,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,1
 1051,8.563288,7.0052314,49,1051,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,1
 1052,8.718617,7.410066,49,1052,tech,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
@@ -878,10 +1057,12 @@
 1055,8.758587,6.960353,49,1055,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1056,8.7786665,6.8845954,49,1056,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1057,8.614267,7.3538585,49,1057,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
+1058,8.889816,6.604095,-1,1058,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 1059,8.233287,6.2798944,47,1059,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
 1060,8.291168,6.165146,47,1060,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,2
 1061,8.817974,7.262914,49,1061,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1062,8.661194,7.0508986,49,1062,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
+1063,8.469668,7.3962812,-1,1063,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1064,7.7711196,6.7230425,48,1064,other,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,2
 1065,8.662521,7.4169893,49,1065,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1066,8.707589,7.2160316,49,1066,tech,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
@@ -889,6 +1070,7 @@
 1068,8.617253,7.2344265,49,1068,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1069,8.740263,7.066776,49,1069,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,2
 1070,8.58698,7.0796075,49,1070,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,3
+1071,9.185596,6.918117,-1,1071,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1072,9.611578,6.8190265,51,1072,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,3
 1073,8.713734,6.8982515,49,1073,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,3
 1074,7.8183503,6.733958,48,1074,other,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,3
@@ -896,17 +1078,25 @@
 1076,8.2262335,6.2983203,47,1076,other,0.25,Data Access,"<i><br>Improving Access to Centralized<br>Databases for State and Local Agencies:<br>Balancing Security, Privacy, and Public<br>Access</i>",16.0,Regular,3
 1077,7.8594975,5.69805,42,1077,tdv,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,3
 1078,8.670293,7.148652,49,1078,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,3
+1079,9.148837,6.9434366,-1,1079,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1080,9.200842,6.318702,39,1080,tech,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,3
+1081,8.450772,7.015301,-1,1081,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
+1082,8.957979,6.7769055,-1,1082,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1083,7.7313023,8.2695,27,1083,tdv,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,2
 1084,7.689301,8.018219,27,1084,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
+1085,7.1148477,8.29334,-1,1085,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1086,7.4786673,8.318722,27,1086,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
+1087,7.7998486,7.6575093,-1,1087,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1088,7.491045,8.477047,27,1088,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
+1089,6.126456,7.879405,-1,1089,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1090,7.517989,6.121338,45,1090,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,1
 1091,7.3331227,6.184322,45,1091,other,0.25,Data Analysis Challenges,<i><br>Challenges and Solutions in Data<br>Analysis and Scheduling Systems for Law<br>Enforcement Agencies</i>,15.0,Regular,1
 1092,7.565074,5.8411574,42,1092,other,0.25,Data Governance,<i><br>Addressing Challenges and Enhancing Data<br>Sharing and Interoperability in<br>Government Agencies</i>,22.0,Regular,1
+1093,7.0576305,6.1154513,-1,1093,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 1094,6.603736,6.7939053,41,1094,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 1095,7.730807,8.269299,27,1095,other,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
 1096,7.8449616,8.064081,27,1096,tdv,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,2
+1097,8.170353,7.0200696,-1,1097,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1098,7.714922,8.27977,27,1098, polic,0.25,Video Management,"<i><br>Improving Video Data Management,<br>Analytics, and Standards in Civil<br>Service</i>",25.0,Priority,1
 1099,6.0202646,7.960875,24,1099,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,2
 1100,5.985191,8.213592,24,1100,stress,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,1
@@ -919,26 +1109,37 @@
 1107,9.006271,5.823094,43,1107,other,0.25,Digital Justice,<i><br>Addressing the Challenges and Needs of<br>the Justice System in the Age of Digital<br>Data Overload</i>,12.0,Priority,1
 1108,5.0103726,4.440716,15,1108,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,1
 1109,7.0032105,5.583518,33,1109,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
+1110,10.149179,4.2557454,-1,1110,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1111,4.843764,4.460596,15,1111,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,1
+1112,5.0798764,4.685122,-1,1112,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1113,9.269817,4.7957683,35,1113,other,0.25,Court Reform,"<i><br>Reforming the Court System: Enhancing<br>Efficiency through Negotiation,<br>Restorative Justice, and Technological<br>Innovations</i>",10.0,Regular,2
+1114,5.255239,5.1294007,-1,1114,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+1115,5.351644,5.1655884,-1,1115,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1116,9.647597,6.8054,51,1116,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,2
 1117,6.371878,6.802513,41,1117,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
+1118,5.278173,5.5132284,-1,1118,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1119,8.807773,5.0077443,44,1119,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,2
 1120,6.850442,5.4140315,33,1120,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 1121,6.030827,5.9427934,5,1121,tech,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,2
+1122,5.2205133,5.0847034,-1,1122,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1123,6.9472356,5.7767143,33,1123,tech,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 1124,6.5236745,6.188818,34,1124,other,0.25,Collaboration Enhancement,<i><br>Enhancing Collaboration and Coordination<br>for Crisis Management and Innovation</i>,13.0,Priority,2
 1125,7.184848,5.73978,33,1125,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
+1126,6.3836393,5.707132,-1,1126,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1127,6.8170314,5.3521857,33,1127,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,3
 1128,6.7272067,5.585523,33,1128,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,3
 1129,3.1227689,3.8317568,1,1129,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,3
+1130,7.539477,5.2753057,-1,1130, polic,0.25,Noise Point,Noise Point,0.0,Regular,3
 1131,6.706688,5.446287,33,1131,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,3
 1132,9.65624,6.712356,51,1132,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,3
 1133,4.463653,4.4414577,16,1133,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,1
 1134,4.8531904,4.348484,15,1134,mentor,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,1
+1135,4.8350153,5.5592456,-1,1135,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+1136,5.0925293,5.0515485,-1,1136, polic,0.25,Noise Point,Noise Point,0.0,Regular,1
 1137,4.2403316,4.609213,16,1137,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 1138,4.3147583,5.0958714,16,1138,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
 1139,4.461048,4.4994807,16,1139,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,3
+1140,5.116312,5.026201,-1,1140,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1141,4.8499246,4.4719796,15,1141,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 1142,3.9811974,9.023549,4,1142,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,1
 1143,3.9839084,9.015601,4,1143,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,1
@@ -946,6 +1147,8 @@
 1145,3.9484653,9.019762,4,1145,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,1
 1146,4.048837,8.979162,4,1146,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,1
 1147,5.6945686,8.142152,24,1147,other,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,1
+1148,5.046093,8.79682,-1,1148,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
+1149,4.9181986,8.920018,-1,1149, polic,0.25,Noise Point,Noise Point,0.0,Regular,1
 1150,4.5684237,9.108564,25,1150,tech,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,1
 1151,5.1106434,9.179061,25,1151,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,2
 1152,5.1340194,9.1959505,25,1152,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,3
@@ -959,8 +1162,12 @@
 1160,5.0569615,6.4670744,12,1160,other,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,3
 1161,5.1656337,4.145182,15,1161,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
 1162,5.069689,6.5365033,12,1162,other,0.25,Correctional Tech Integration,<i><br>Challenges and Solutions in Integrating<br>Technology in Correctional Institutions</i>,18.0,Regular,3
+1163,4.9613404,5.7189245,-1,1163,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1164,5.462241,6.3479195,13,1164,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,1
+1165,4.9547844,5.731994,-1,1165,other,0.25,Noise Point,Noise Point,0.0,Regular,2
+1166,4.9468327,5.726519,-1,1166,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1167,4.939298,4.301858,15,1167,other,0.25,Recruitment Challenges,"<i><br>Challenges and Strategies in<br>Recruitment, Retention, and Supervision<br>within Agencies</i>",26.0,Regular,3
+1168,4.9825487,5.727045,-1,1168,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1169,7.087123,8.569935,26,1169,other,0.25,Video Analytics,<i><br>Utilizing Video Analytics and CCTV for<br>Security and Behavior Management in<br>Institutional Environments</i>,11.0,Priority,3
 1170,5.5784607,6.4377866,13,1170,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,3
 1171,3.1487422,3.7579362,1,1171,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,3
@@ -972,7 +1179,12 @@
 1177,3.000434,8.008671,9,1177,other,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,1
 1178,2.9944165,7.986259,9,1178,other,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,1
 1179,2.9205775,8.011086,9,1179,other,0.25,Drug Overdose Strategies,<i><br>Strategies for Reducing Drug Overdose<br>and Improving Treatment in Correctional<br>Facilities</i>,17.0,Priority,1
+1180,3.262512,8.214669,-1,1180,drug,0.25,Noise Point,Noise Point,0.0,Regular,1
+1181,3.4627004,8.000022,-1,1181,stress,0.25,Noise Point,Noise Point,0.0,Regular,1
 1182,3.422508,7.7764897,8,1182,stress,0.25,Law Enforcement Mental Health,<i><br>Mental Health Challenges and Support<br>Needs in Law Enforcement</i>,9.0,Priority,1
+1183,3.3558102,8.264826,-1,1183,other,0.25,Noise Point,Noise Point,0.0,Regular,1
+1184,3.313019,8.280103,-1,1184,drug,0.25,Noise Point,Noise Point,0.0,Regular,1
+1185,3.3423865,8.280986,-1,1185,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1186,9.18338,7.7441936,50,1186,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,1
 1187,9.094391,7.8059025,50,1187,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,1
 1188,9.037068,7.833608,50,1188,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,1
@@ -981,27 +1193,35 @@
 1191,9.496151,7.577714,52,1191,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,1
 1192,6.909423,6.8288245,41,1192,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 1193,9.481382,7.428434,52,1193, polic,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,1
+1194,9.3063965,7.610645,-1,1194,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1195,8.879087,7.878419,50,1195,traffick,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,1
 1196,8.821817,4.994927,44,1196,tech,0.25,Court Technology Challenges,<i><br>Challenges and Solutions for Integrating<br>Modern Technology in the Court System</i>,52.0,Regular,1
 1197,9.097411,7.7911096,50,1197,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,1
 1198,9.091518,7.7416954,50,1198,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
+1199,5.2658906,4.2657022,-1,1199,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
+1200,3.2750332,8.225904,-1,1200,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1201,7.8704166,6.632764,48,1201,drug,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,1
 1202,6.9009314,5.8901067,33,1202,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
 1203,7.952484,6.553722,48,1203,drug,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,1
 1204,6.8563437,7.101452,41,1204,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
 1205,9.473407,7.2900524,52,1205,drug,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
+1206,3.2769778,8.197311,-1,1206,drug,0.25,Noise Point,Noise Point,0.0,Regular,2
 1207,9.210145,6.384314,39,1207,tech,0.25,Technological Adaptation,<i><br>Challenges and Needs in Adapting Legal<br>Doctrines and Rights to Contemporary<br>Technologies and Surveillance Methods</i>,12.0,Regular,2
 1208,6.8513713,7.2090745,41,1208,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,2
 1209,9.307859,7.482852,52,1209,other,0.25,Digital Evidence Management,<i><br>Challenges and Solutions in Managing and<br>Analyzing Digital Evidence in Law<br>Enforcement Agencies</i>,30.0,Regular,2
 1210,7.9435377,6.5171022,48,1210,other,0.25,Crime Integration,"<i><br>Improving Crime Data Integration, Cross-<br>Jurisdictional Cooperation, and<br>Cybercrime Investigation Methods</i>",12.0,Regular,2
 1211,8.716252,7.796878,50,1211,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
 1212,8.744903,7.437861,49,1212,other,0.25,Data Acquisition Challenges,<i><br>Challenges and Solutions in Data<br>Acquisition from Providers for Legal<br>Processes</i>,32.0,Regular,3
+1213,9.00282,7.3068805,-1,1213,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 1214,9.067733,7.737323,50,1214,tech,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,1
 1215,8.942777,7.8249063,50,1215,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
+1216,8.587075,7.8519106,-1,1216,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
 1217,9.158144,7.740936,50,1217,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
 1218,8.993991,7.799843,50,1218,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
+1219,8.435153,7.794665,-1,1219,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1220,8.844175,7.677489,50,1220,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,3
 1221,4.874694,9.062457,25,1221,other,0.25,Aerial Surveillance,"<i><br>Unmanned Aerial Systems in Surveillance<br>and Perimeter Monitoring: Development,<br>Validation, and Community Concerns</i>",27.0,Priority,1
+1222,7.6057606,6.776048,-1,1222,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1223,8.676271,7.7236967,50,1223,other,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
 1224,8.740371,7.8384113,50,1224,tech,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
 1225,8.766931,7.7835894,50,1225, polic,0.25,Dark Web Crimes,<i><br>Challenges and Needs in Investigating<br>Dark Web-Facilitated Crimes for Law<br>Enforcement Agencies</i>,17.0,Regular,2
@@ -1010,18 +1230,27 @@
 1228,9.316864,6.8924303,51,1228,other,0.25,Evidence Management,"<i><br>Challenges and Improvement Strategies in<br>Evidence Management: Compliance,<br>Storage, Retention, and Accessibility</i>",11.0,Regular,2
 1229,8.046288,7.659607,37,1229,tdv,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
 1230,8.038734,7.6590366,37,1230,tdv,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
+1231,8.426366,7.664116,-1,1231,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1232,7.960368,7.6856265,37,1232,other,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
 1233,7.971724,7.6698127,37,1233,other,0.25,Digital Investigations,<i><br>Challenges and Solutions in Law<br>Enforcement's Use of Social Media and<br>Digital Data</i>,16.0,Regular,3
 1234,5.8947663,8.006953,24,1234,stress,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,1
+1235,4.8271236,5.288912,-1,1235,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 1236,7.022544,8.51624,26,1236,other,0.25,Video Analytics,<i><br>Utilizing Video Analytics and CCTV for<br>Security and Behavior Management in<br>Institutional Environments</i>,11.0,Priority,1
 1237,5.867407,8.164902,24,1237,tech,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,1
 1238,4.6577783,4.996773,16,1238,other,0.25,Correctional Workforce Challenges,"<i><br>Challenges and Needs in the Correctional<br>Workforce: Recruitment, Training,<br>Retention, and Public Perception</i>",44.0,Regular,2
+1239,4.8119125,6.674584,-1,1239,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+1240,5.649924,7.6918564,-1,1240,other,0.25,Noise Point,Noise Point,0.0,Regular,3
+1241,4.340551,5.2265806,-1,1241,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1242,5.7969475,8.323128,24,1242,tech,0.25,Technological Advancements,"<i><br>Advanced Technologies in Enhancing<br>Public Safety and Community Corrections:<br>Applications, Challenges, and Future<br>Research</i>",24.0,Regular,3
+1243,4.792402,7.0894976,-1,1243,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 1244,4.4094276,5.9168324,11,1244,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,1
 1245,5.483117,6.5766053,13,1245,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,1
+1246,4.860987,6.86089,-1,1246,tech,0.25,Noise Point,Noise Point,0.0,Regular,1
 1247,6.1280365,6.717651,41,1247, polic,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
+1248,4.3949885,6.6870575,-1,1248,other,0.25,Noise Point,Noise Point,0.0,Regular,2
 1249,4.526007,5.99773,11,1249,other,0.25,Correctional Reform,"<i><br>Improving Services and Practices in the<br>Correctional System: A Focus on Crime<br>Victims, Community Corrections, and<br>Positive Reinforcement for Offenders</i>",18.0,Regular,2
 1250,5.6083193,6.6075015,13,1250,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,2
+1251,6.2354116,5.4148393,-1,1251,other,0.25,Noise Point,Noise Point,0.0,Regular,3
 1252,3.2197406,3.70293,1,1252,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,3
 1253,3.3085244,3.659849,1,1253,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,3
 1254,3.2633958,3.6877594,1,1254,other,0.25,Dynamic Risk Assessment,<i><br>Improving Case Management Systems: The<br>Need for Dynamic Risk Assessment Tools<br>and Validation Techniques</i>,17.0,Priority,3
@@ -1031,13 +1260,19 @@
 1258,5.417013,6.7269106,13,1258,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,2
 1259,5.3573546,6.7723475,13,1259,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,2
 1260,4.1797433,8.79852,4,1260,tech,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,2
+1261,6.4803276,8.815507,-1,1261,tech,0.25,Noise Point,Noise Point,0.0,Regular,2
+1262,3.8661544,8.461094,-1,1262,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
 1263,3.8226013,8.916111,4,1263,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
 1264,3.7374961,8.918504,4,1264,drug,0.25,Drug Technologies,<i><br>Advancements in Drug Detection and<br>Monitoring Technologies: Needs and<br>Future Directions</i>,26.0,Regular,3
 1265,5.3343396,6.8196464,13,1265,other,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,3
+1266,6.72102,8.348005,-1,1266,tech,0.25,Noise Point,Noise Point,0.0,Regular,3
+1267,6.0217137,6.2971587,-1,1267,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1268,7.1028056,4.956278,17,1268,tech,0.25,Certification Challenges,<i><br>Challenges and Solutions for Small Law<br>Enforcement Agencies in Meeting<br>Certification Standards and Implementing<br>New Technologies</i>,12.0,Regular,1
 1269,6.8590856,5.881277,33,1269,other,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,1
 1270,5.4528856,6.58892,13,1270,tech,0.25,Correctional Analytics,<i><br>Enhancing Offender Monitoring and Data<br>Analysis in Correctional Institutions</i>,17.0,Priority,1
+1271,6.128344,6.4354625,-1,1271,other,0.25,Noise Point,Noise Point,0.0,Regular,1
 1272,6.440185,6.6813226,41,1272,other,0.25,Law Enforcement Enhancement,"<i><br>Enhancing Law Enforcement Operations:<br>Public Perception, Officer Safety, and<br>Technological Advancements</i>",51.0,Priority,1
+1273,5.7337847,6.788119,-1,1273,drug,0.25,Noise Point,Noise Point,0.0,Regular,1
 1274,6.834467,5.6175914,33,1274,tech,0.25,Operations Enhancement,"<i><br>Improving Agency Operations through<br>Technology, Data, and Evidence-Based<br>Research</i>",30.0,Regular,2
 1275,5.904529,5.853987,5,1275,tech,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,3
 1276,5.94434,5.7793627,5,1276,other,0.25,Translation Technologies,<i><br>Advancements and Challenges in<br>Translation Technologies for<br>Multilingual Agencies</i>,9.0,Regular,3
